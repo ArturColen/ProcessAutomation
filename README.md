@@ -4,6 +4,7 @@ The project was developed during the first class of the intensive course held by
 
 # 🔨 Project functionality
 The program performs autonomously (without the need of a person's supervision) the action of opening the browser, accessing the Excel spreadsheet, analyzing the data, and sending a report by e-mail, with the intention of facilitating some processes for a certain company. 
+Note: To use the program on different monitors, you must change the position (x and y) of the commands.
 
 # 💻 Technologies and techniques used 
 * `Python with Pyautogui, Pyperclip, Time and Pandas:` Control keyboard and mouse actions, control the timing of actions, and analyze data from a spreadsheet
