@@ -2,15 +2,15 @@
 
 The project was developed during the intensive course held by [Hashtag Treinamentos](https://www.hashtagtreinamentos.com), with the objective of introducing the creation of applications to automate processes or systems for companies.
 
-# 🔨 Project functionality
+## 🔨 Project functionality
 The program performs autonomously (without the need of a person's supervision) the action of opening the browser, accessing the Excel spreadsheet, analyzing the data, and sending a report by e-mail, with the intention of facilitating some processes for a certain company. 
 
 Note: To use the program on different monitors, you must change the position (x and y) of the commands.
 
-# 💻 Technologies and techniques used 
+## 💻 Technologies and techniques used 
 * `Python with Pyautogui, Pyperclip, Time and Pandas:` Control keyboard and mouse actions, control the timing of actions, and analyze data from a spreadsheet
 
-# 📁 Access and execute project
+## 📁 Access and execute project
 ### **1.** Install [Python](https://www.python.org/) on your computer
 
 ### **2.** Clone [this repository](https://github.com/ArturColen/ProcessAutomation) on your machine
