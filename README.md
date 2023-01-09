@@ -6,7 +6,7 @@ The program performs autonomously (without the need of a person's supervision) t
 
 **Note:** To use the program on different monitors, you must change the position (x and y) of the commands.
 
-## 💻 Technologies and techniques used 
+## 💻 Technologies used 
 * [Python](https://www.python.org/): programming language
 * [PyAutoGUI](https://pypi.org/project/PyAutoGUI/): control mouse and keyboard
 * [Pyperclip](https://pypi.org/project/pyperclip/): copy and paste clipboard functions
