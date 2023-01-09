@@ -11,19 +11,19 @@ Note: To use the program on different monitors, you must change the position (x 
 * `Python with Pyautogui, Pyperclip, Time and Pandas:` Control keyboard and mouse actions, control the timing of actions, and analyze data from a spreadsheet
 
 ## 📁 Access and execute project
-### **1.** Install [Python](https://www.python.org/) on your computer
+### 1. Install [Python](https://www.python.org/) on your computer
 
-### **2.** Clone [this repository](https://github.com/ArturColen/ProcessAutomation) on your machine
+### 2. Clone [this repository](https://github.com/ArturColen/ProcessAutomation) on your machine
 * Create a folder on your computer for this program
 * Open the `terminal` inside this folder
 * Copy the [URL](https://github.com/ArturColen/ProcessAutomation.git) from the repository
 * Type `git clone <URL copied>` and press `enter`
 
-### **3.** Still inside the terminal, install the following libraries:
+### 3. Still inside the terminal, install the following libraries:
 * Pyautogui: `pip install pyautogui`
 * Pyperclip: `pip install pyperclip`
 * Pandas: `pip install pandas`
 * Numpy: `pip install numpy`
 
-### **4.** Run the program from the terminal
+### 4. Run the program from the terminal
 * `python ProcessAutomation.py`
