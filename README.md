@@ -17,7 +17,7 @@ Note: To use the program on different monitors, you must change the position (x 
 * Create a folder on your computer for this program
 * Open the `terminal` inside this folder
 * Copy the [URL](https://github.com/ArturColen/ProcessAutomation.git) from the repository
-* Type `git clone <URL copied>` and press enter
+* Type `git clone <URL copied>` and press `enter`
 
 ### **3.** Still inside the terminal, install the following libraries:
 * Pyautogui: `pip install pyautogui`
