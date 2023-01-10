@@ -24,9 +24,9 @@ The program performs autonomously (without the need of a person's supervision) t
 
 ### 3. Still inside the terminal, install the following libraries:
 * Pyautogui: `pip install pyautogui`
-* Pyperclip: `pip install pyperclip`
 * Pandas: `pip install pandas`
 * Numpy: `pip install numpy`
+* Openpyxl: `pip install openpyxl`
 
 ### 4. Run the program from the terminal
 * `python ProcessAutomation.py`
