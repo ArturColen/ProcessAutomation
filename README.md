@@ -7,14 +7,14 @@ The program performs autonomously (without the need of a person's supervision) t
 **Note:** To use the program on different monitors, you must change the position (x and y) of the commands.
 
 ## 💻 Technologies used 
-* [Python](https://www.python.org/): programming language
+* [Python](https://docs.python.org/pt-br/3/tutorial/): programming language
 * [PyAutoGUI](https://pypi.org/project/PyAutoGUI/): control mouse and keyboard
 * [Pyperclip](https://pypi.org/project/pyperclip/): copy and paste clipboard functions
 * [Pandas](https://pypi.org/project/pandas/): data manipulation and analysis
 * [Time](https://docs.python.org/pt-br/3/library/time.html): control the duration time between actions
 
 ## 📁 Access and execute project
-### 1. Install [Python](https://www.python.org/) on your computer
+### 1. Install [Python](https://www.python.org/downloads/) on your computer
 
 ### 2. Clone [this repository](https://github.com/ArturColen/ProcessAutomation) on your machine
 * Create a folder on your computer for this program
